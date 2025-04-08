@@ -33,8 +33,8 @@ An interactive web application built with React that fetches and displays tour p
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-directory-name>
+    git clone [https://github.com/NoToRacism/Tours.git](https://www.google.com/search?q=https://github.com/NoToRacism/Tours.git)
+    cd Tours
     ```
 2.  **Install dependencies:**
     ```bash
