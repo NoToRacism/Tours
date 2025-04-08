@@ -1,5 +1,7 @@
 Interactive React Tours Project
 
+**[Live Demo](https://toursprojectnoto.netlify.app/)**
+
 Explore travel destinations with this clean and interactive tours application built using React (with Vite).
 
 - Fetches tour data asynchronously from course-api.com.
