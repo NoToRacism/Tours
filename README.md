@@ -1,8 +1,9 @@
 Interactive React Tours Project
 
 
-
 An interactive web application built with React that fetches and displays tour package information from an API. Users can browse tours, read descriptions, and remove tours they are not interested in.
+
+**[Live Demo](https://toursprojectnoto.netlify.app/)**
 
 
 ![Screenshot 1](https://github.com/user-attachments/assets/0074a19b-8dbc-4cd9-bce7-a4e305045f8d)
@@ -10,7 +11,7 @@ An interactive web application built with React that fetches and displays tour p
 ![Screenshot 3](https://github.com/user-attachments/assets/a30dc942-04e0-4f7c-b2d5-77b3bdaa46a9)
 
 
-**[Live Demo](https://toursprojectnoto.netlify.app/)**
+
 
 ## Features
 
